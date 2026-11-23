@@ -12,6 +12,7 @@
       .title { font: 700 30px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #4F5A2C; }
       .desc  { font: 400 15px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6E6A3E; }
       .tag   { font: 500 12px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6B8A3A; }
+      .star  { font: 600 13px 'Helvetica Neue', Arial, sans-serif; fill: #6B8A3A; }
       .more  { font: 500 13px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #7FA94E; }
     </style>
   </defs>
@@ -21,6 +22,10 @@
     <g transform="rotate(-12 750 222)"><circle cx="750" cy="222" r="96" fill="#F1E3A2"/><circle cx="750" cy="222" r="84.5" fill="#FFFCEC"/><g fill="#F7EDC0" stroke="#F7EDC0" stroke-width="2.5" stroke-linejoin="round"><path d="M761.5 223.0 L816.9 227.9 A67.2 67.2 0 0 1 801.5 265.2 L758.8 229.4 Z"/><path d="M757.4 230.8 L793.2 273.5 A67.2 67.2 0 0 1 755.9 288.9 L751.0 233.5 Z"/><path d="M749.0 233.5 L744.1 288.9 A67.2 67.2 0 0 1 706.8 273.5 L742.6 230.8 Z"/><path d="M741.2 229.4 L698.5 265.2 A67.2 67.2 0 0 1 683.1 227.9 L738.5 223.0 Z"/><path d="M738.5 221.0 L683.1 216.1 A67.2 67.2 0 0 1 698.5 178.8 L741.2 214.6 Z"/><path d="M742.6 213.2 L706.8 170.5 A67.2 67.2 0 0 1 744.1 155.1 L749.0 210.5 Z"/><path d="M751.0 210.5 L755.9 155.1 A67.2 67.2 0 0 1 793.2 170.5 L757.4 213.2 Z"/><path d="M758.8 214.6 L801.5 178.8 A67.2 67.2 0 0 1 816.9 216.1 L761.5 221.0 Z"/></g><circle cx="750" cy="222" r="6.7" fill="#FFFCEC"/></g>
   </g>
   <rect x="0.5" y="0.5" width="819" height="239" rx="23.5" fill="none" stroke="#CFE3A6" stroke-opacity="0.8"/>
+  <g transform="translate(700 44)">
+    <rect width="72" height="26" rx="13" fill="#FFFFFF" fill-opacity="0.75" stroke="#CFE3A6"/>
+    <text x="36" y="18" text-anchor="middle" class="star"><tspan fill="#E8C64A">★</tspan> <tspan id="stars">108</tspan></text>
+  </g>
   <text x="48" y="64" class="label">ASTRBOT PLUGIN</text>
   <text x="48" y="104" class="title">B站 AI Bot 插件</text>
   <path d="M48 120 q 9 -5 18 0 t 18 0" fill="none" stroke="#A9CB78" stroke-width="2.4" stroke-linecap="round"/>

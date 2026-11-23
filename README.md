@@ -30,8 +30,6 @@
   <img src="assets/bilibot-card.svg" width="720" alt="B站 AI Bot 插件" />
 </a>
 
-<img src="https://img.shields.io/github/stars/chenluQwQ/astrbot_plugin_bilibili_ai_bot?style=flat-square&color=C6DEA2&labelColor=FBF8DA&label=%E2%98%85" />
-
 </div>
 
 <div align="center"><img src="assets/divider-a.svg" width="100%" /></div>
