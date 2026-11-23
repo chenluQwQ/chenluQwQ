@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-F6EFB0?style=for-the-badge&logo=python&logoColor=4F5A2C" />&emsp;
-<img src="https://img.shields.io/badge/AstrBot-DCEBB4?style=for-the-badge&logoColor=4F5A2C" />
+<a href="https://github.com/AstrBotDevs/AstrBot"><img src="https://img.shields.io/badge/AstrBot-DCEBB4?style=for-the-badge&logoColor=4F5A2C" /></a>
 
 <img src="assets/divider.svg" width="600" />
 
@@ -15,7 +15,7 @@
 
 我叫晨露，也可以叫我柠弥
 
-是个学生，目前在为 AstrBot 写插件
+是个学生，目前在为 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 写插件
 
 欢迎来看我的主页～有事可以发邮件给我：[chenluqwq@gmail.com](mailto:chenluqwq@gmail.com)
 
