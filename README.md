@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Python-F6EFB0?style=for-the-badge&logo=python&logoColor=4F5A2C" />&emsp;
 <a href="https://github.com/AstrBotDevs/AstrBot"><img src="https://img.shields.io/badge/AstrBot-DCEBB4?style=for-the-badge&logoColor=4F5A2C" /></a>
 
-<img src="assets/divider-a.svg" width="100%" />
+<img src="assets/divider-a.svg" width="480" />
 
 </div>
 
@@ -24,12 +24,10 @@
 
 </div>
 
-<div align="center"><img src="assets/divider-a.svg" width="100%" /></div>
+<div align="center"><img src="assets/ending.svg" width="720" alt="谢谢你来看我的主页，有空常来玩" /></div>
 
 <div align="center">
 
 <img src="https://count.getloli.com/get/@chenluQwQ?theme=moebooru" alt="visitors" />
 
 </div>
-
-<img src="assets/footer.svg" width="100%" />

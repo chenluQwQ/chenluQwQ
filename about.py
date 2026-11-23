@@ -1,4 +1,4 @@
-"""关于我：左边文字，右边立绘，几个色块装饰。立绘以 base64 嵌进 SVG（<img> 引用的 SVG 不能加载外部图片）。"""
+"""关于我：左边文字，右边立绘，色块和星星装饰。立绘以 base64 嵌进 SVG（<img> 引用的 SVG 不能加载外部图片）。"""
 import base64
 from PIL import Image
 from deco import *
@@ -25,6 +25,8 @@ body = f'''<rect x="0" y="{PANEL_Y}" width="{W}" height="{H-PANEL_Y}" rx="24" fi
   <rect x="{FX+40}" y="70" width="{FW-60}" height="290" rx="28" fill="#FBF5D0"/>
   <rect x="{FX-6}" y="282" width="78" height="78" rx="18" fill="#E5EFC6"/>
   <rect x="{FX+FW-34}" y="52" width="46" height="46" rx="12" fill="#F3E79F" fill-opacity="0.7"/>
+  {star(FX+FW-12, 120, 7, "#F2D64B", "tw")}{star(FX+22, 96, 5, "#C9DE94", "tw2")}{star(FX+FW+2, 300, 4.5, "#F2D64B", "tw2")}
+  {star(330, 70, 5, "#F2D64B", "tw")}{star(362, 92, 3, "#C9DE94")}{star(260, 330, 4, "#F2D64B", "tw2")}
   <rect x="56" y="{PANEL_Y+330}" width="54" height="8" rx="4" fill="#F3E79F"/>
   <rect x="118" y="{PANEL_Y+330}" width="22" height="8" rx="4" fill="#D6E7AE"/>
   <image href="data:image/png;base64,{b64}" x="{FX}" y="{FY}" width="{FW}" height="{FH}"/>
