@@ -1,6 +1,6 @@
 <img src="assets/header.svg" width="100%" alt="Hi，我是晨露" />
 
-<div align="center"><img src="assets/typing.svg" width="420" alt="也可以叫我柠弥，欢迎来看我的主页" /></div>
+<div align="center"><img src="assets/typing.svg" width="420" alt="欢迎来看我的主页 / 目前在为 AstrBot 写插件" /></div>
 
 <div align="center">
 
