@@ -1,14 +1,14 @@
 
       <svg
         width="854"
-        height="200"
+        height="280"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
         style="z-index:1;position:relative"
-        viewBox="0 0 854 200"
+        viewBox="0 0 854 280"
       >
         <style>
-      .text {   font-size: 46px;   font-weight: 700;   font-family: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; letter-spacing: 4px;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text {   font-size: 50px;   font-weight: 700;   font-family: 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; letter-spacing: 4px;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
        
       .bob { animation: bob 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes bob { 0%, 100% { transform: translateY(0) rotate(-10deg); } 50% { transform: translateY(-4px) rotate(-4deg); } }
@@ -19,7 +19,7 @@
               </linearGradient>
             </defs>
         
-      <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
+      <g transform="translate(427, 140) scale(1, 1) translate(-427, -140)">
         <path d="" fill="url(#linear)" opacity="0.4" >
           <animate
               attributeName="d"
@@ -29,7 +29,7 @@
               calcmod="spline"
               keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
               begin="0s"
-              values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
+              values="M0 0L 0 200Q 213.5 240 427 210T 854 235L 854 0 Z;M0 0L 0 225Q 213.5 240 427 220T 854 210L 854 0 Z;M0 0L 0 245Q 213.5 215 427 245T 854 210L 854 0 Z;M0 0L 0 200Q 213.5 240 427 210T 854 235L 854 0 Z">
           </animate>
         </path>
         <path d="" fill="url(#linear)" opacity="0.4" >
@@ -41,11 +41,10 @@
             calcmod="spline"
             keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
             begin="-10s"
-            values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z">
+            values="M0 0L 0 215Q 213.5 260 427 230T 854 240L 854 0 Z;M0 0L 0 230Q 213.5 200 427 200T 854 220L 854 0 Z;M0 0L 0 225Q 213.5 205 427 230T 854 245L 854 0 Z;M0 0L 0 215Q 213.5 260 427 230T 854 240L 854 0 Z">
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="40%" class="text" style="fill:#5C5A2A;" stroke="#none" stroke-width="1" >Hi，我是晨露</text>
+         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="42%" class="text" style="fill:#5C5A2A;" stroke="#none" stroke-width="1" >Hi，我是晨露</text>
         
-        <g class="bob"><circle cx="790" cy="122" r="22" fill="#FFD84D"/><circle cx="790" cy="122" r="19.4" fill="#FFFBE6"/><g fill="#FFEB8A" stroke="#FFEB8A" stroke-width="2.5" stroke-linejoin="round"><path d="M792.6 122.2 L805.3 123.3 A15.4 15.4 0 0 1 801.8 131.9 L792.0 123.7 Z"/><path d="M791.7 124.0 L799.9 133.8 A15.4 15.4 0 0 1 791.3 137.3 L790.2 124.6 Z"/><path d="M789.8 124.6 L788.7 137.3 A15.4 15.4 0 0 1 780.1 133.8 L788.3 124.0 Z"/><path d="M788.0 123.7 L778.2 131.9 A15.4 15.4 0 0 1 774.7 123.3 L787.4 122.2 Z"/><path d="M787.4 121.8 L774.7 120.7 A15.4 15.4 0 0 1 778.2 112.1 L788.0 120.3 Z"/><path d="M788.3 120.0 L780.1 110.2 A15.4 15.4 0 0 1 788.7 106.7 L789.8 119.4 Z"/><path d="M790.2 119.4 L791.3 106.7 A15.4 15.4 0 0 1 799.9 110.2 L791.7 120.0 Z"/><path d="M792.0 120.3 L801.8 112.1 A15.4 15.4 0 0 1 805.3 120.7 L792.6 121.8 Z"/></g><circle cx="790" cy="122" r="2.5" fill="#FFFBE6"/><ellipse cx="781.6" cy="112.1" rx="4.0" ry="1.8" fill="#fff" fill-opacity="0.6" transform="rotate(-35 781.6 112.1)"/></g>
-</svg>
+      </svg>
