@@ -1,30 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="258" viewBox="0 0 512 258" role="img" aria-label="B站 AI Bot 插件">
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="240" viewBox="0 0 820 240" role="img" aria-label="B站 AI Bot 插件">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FFFDF0"/><stop offset="0.55" stop-color="#FBF5CC"/><stop offset="1" stop-color="#E4F0BE"/>
+      <stop offset="0" stop-color="#FFFEF4"/><stop offset="0.5" stop-color="#FBF8DA"/><stop offset="1" stop-color="#EEF5CF"/>
     </linearGradient>
-    <radialGradient id="lem" cx="0.38" cy="0.32" r="0.8">
-      <stop offset="0" stop-color="#FFF3A0"/><stop offset="0.6" stop-color="#FFE04D"/><stop offset="1" stop-color="#F7C928"/>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFE680" stop-opacity="0.45"/><stop offset="1" stop-color="#FFE680" stop-opacity="0"/>
     </radialGradient>
+    <clipPath id="card"><rect width="820" height="240" rx="24"/></clipPath>
     <style>
-      .label { font: 600 11px 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #8DB255; }
-      .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #4F5A2C; }
-      .desc  { font: 400 14px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6E6A3E; }
+      .label { font: 600 12px 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #8DB255; }
+      .title { font: 700 30px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #4F5A2C; }
+      .desc  { font: 400 15px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6E6A3E; }
       .tag   { font: 500 12px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6B8A3A; }
       .more  { font: 500 13px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #7FA94E; }
     </style>
   </defs>
-  <path d="M56 40 C 150 2, 350 -2, 452 34 C 516 58, 508 168, 462 210 C 398 262, 162 258, 66 226 C 4 204, -4 76, 56 40 Z" fill="url(#bg)"/>
-  <clipPath id="clipblob"><path d="M56 40 C 150 2, 350 -2, 452 34 C 516 58, 508 168, 462 210 C 398 262, 162 258, 66 226 C 4 204, -4 76, 56 40 Z"/></clipPath>
-  <g clip-path="url(#clipblob)"><g transform="rotate(-12 452 208)"><g opacity="0.8"><circle cx="452" cy="208" r="62" fill="#FFD84D"/><circle cx="452" cy="208" r="54.6" fill="#FFFBE6"/><g fill="#FFEB8A" stroke="#FFEB8A" stroke-width="2.5" stroke-linejoin="round"><path d="M459.4 208.6 L495.2 211.8 A43.4 43.4 0 0 1 485.2 235.9 L457.7 212.8 Z"/><path d="M456.8 213.7 L479.9 241.2 A43.4 43.4 0 0 1 455.8 251.2 L452.6 215.4 Z"/><path d="M451.4 215.4 L448.2 251.2 A43.4 43.4 0 0 1 424.1 241.2 L447.2 213.7 Z"/><path d="M446.3 212.8 L418.8 235.9 A43.4 43.4 0 0 1 408.8 211.8 L444.6 208.6 Z"/><path d="M444.6 207.4 L408.8 204.2 A43.4 43.4 0 0 1 418.8 180.1 L446.3 203.2 Z"/><path d="M447.2 202.3 L424.1 174.8 A43.4 43.4 0 0 1 448.2 164.8 L451.4 200.6 Z"/><path d="M452.6 200.6 L455.8 164.8 A43.4 43.4 0 0 1 479.9 174.8 L456.8 202.3 Z"/><path d="M457.7 203.2 L485.2 180.1 A43.4 43.4 0 0 1 495.2 204.2 L459.4 207.4 Z"/></g><circle cx="452" cy="208" r="4.3" fill="#FFFBE6"/><ellipse cx="428.4" cy="180.1" rx="11.2" ry="5.0" fill="#fff" fill-opacity="0.6" transform="rotate(-35 428.4 180.1)"/></g></g></g>
-  <text x="64" y="78" class="label">ASTRBOT PLUGIN</text>
-  <text x="64" y="116" class="title">B站 AI Bot 插件</text>
-  <path d="M64 132 q 8 -5 16 0 t 16 0" fill="none" stroke="#A9CB78" stroke-width="2.2" stroke-linecap="round"/>
-  <text x="64" y="160" class="desc">让 AI 角色在 B站活起来：刷视频、听声音、</text>
-  <text x="64" y="182" class="desc">回评论，记得看过什么、和谁聊过什么。</text>
-  <g transform="translate(64 198)">
-    <rect width="58" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="29" y="14" text-anchor="middle" class="tag">Python</text>
-    <rect x="66" width="66" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="99" y="14" text-anchor="middle" class="tag">AstrBot</text>
+  <g clip-path="url(#card)">
+    <rect width="820" height="240" fill="url(#bg)"/>
+    <circle cx="720" cy="190" r="170" fill="url(#glow)"/>
+    <g opacity="0.85" transform="rotate(-12 752 214)"><circle cx="752" cy="214" r="70" fill="#FFD84D"/><circle cx="752" cy="214" r="61.6" fill="#FFFBE6"/><g fill="#FFEB8A" stroke="#FFEB8A" stroke-width="2.5" stroke-linejoin="round"><path d="M760.4 214.7 L800.8 218.3 A49.0 49.0 0 0 1 789.5 245.5 L758.4 219.4 Z"/><path d="M757.4 220.4 L783.5 251.5 A49.0 49.0 0 0 1 756.3 262.8 L752.7 222.4 Z"/><path d="M751.3 222.4 L747.7 262.8 A49.0 49.0 0 0 1 720.5 251.5 L746.6 220.4 Z"/><path d="M745.6 219.4 L714.5 245.5 A49.0 49.0 0 0 1 703.2 218.3 L743.6 214.7 Z"/><path d="M743.6 213.3 L703.2 209.7 A49.0 49.0 0 0 1 714.5 182.5 L745.6 208.6 Z"/><path d="M746.6 207.6 L720.5 176.5 A49.0 49.0 0 0 1 747.7 165.2 L751.3 205.6 Z"/><path d="M752.7 205.6 L756.3 165.2 A49.0 49.0 0 0 1 783.5 176.5 L757.4 207.6 Z"/><path d="M758.4 208.6 L789.5 182.5 A49.0 49.0 0 0 1 800.8 209.7 L760.4 213.3 Z"/></g><circle cx="752" cy="214" r="4.9" fill="#FFFBE6"/><ellipse cx="725.4" cy="182.5" rx="12.6" ry="5.6" fill="#fff" fill-opacity="0.6" transform="rotate(-35 725.4 182.5)"/></g>
   </g>
-  <text x="356" y="212" text-anchor="end" class="more">查看仓库 →</text>
+  <rect x="0.5" y="0.5" width="819" height="239" rx="23.5" fill="none" stroke="#CFE3A6" stroke-opacity="0.8"/>
+  <text x="48" y="64" class="label">ASTRBOT PLUGIN</text>
+  <text x="48" y="104" class="title">B站 AI Bot 插件</text>
+  <path d="M48 120 q 9 -5 18 0 t 18 0" fill="none" stroke="#A9CB78" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="48" y="150" class="desc">让 AI 角色在 B站活起来：刷视频、听声音、回评论，</text>
+  <text x="48" y="174" class="desc">记得看过什么、和谁聊过什么。</text>
+  <g transform="translate(48 190)">
+    <rect width="62" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="31" y="14" text-anchor="middle" class="tag">Python</text>
+    <rect x="70" width="70" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="105" y="14" text-anchor="middle" class="tag">AstrBot</text>
+  </g>
+  <text x="640" y="206" text-anchor="end" class="more">查看仓库 →</text>
 </svg>
