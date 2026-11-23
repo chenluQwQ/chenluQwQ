@@ -3,6 +3,9 @@
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFDF0"/><stop offset="0.55" stop-color="#FBF5CC"/><stop offset="1" stop-color="#E4F0BE"/>
     </linearGradient>
+    <radialGradient id="lem" cx="0.38" cy="0.32" r="0.8">
+      <stop offset="0" stop-color="#FFF3A0"/><stop offset="0.6" stop-color="#FFE04D"/><stop offset="1" stop-color="#F7C928"/>
+    </radialGradient>
     <style>
       .label { font: 600 11px 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #8DB255; }
       .title { font: 700 28px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #4F5A2C; }
@@ -22,5 +25,10 @@
     <rect width="58" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="29" y="14" text-anchor="middle" class="tag">Python</text>
     <rect x="66" width="66" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.75"/><text x="99" y="14" text-anchor="middle" class="tag">AstrBot</text>
   </g>
-  <text x="440" y="212" text-anchor="end" class="more">查看仓库 →</text>
+  <g transform="translate(446 206) rotate(-24)">
+    <path d="M-50 0 Q -45 -5 -38 -10 C -28 -28, 28 -28, 38 -10 Q 45 -5 50 0 Q 45 5 38 10 C 28 28, -28 28, -38 10 Q -45 5 -50 0 Z" fill="url(#lem)"/>
+    <ellipse cx="-12" cy="-12" rx="12" ry="4.5" fill="#FFFFFF" fill-opacity="0.6" transform="rotate(-10 -12 -12)"/>
+    <circle cx="12" cy="6" r="1.2" fill="#E8B820" opacity=".5"/><circle cx="22" cy="-4" r="1" fill="#E8B820" opacity=".5"/><circle cx="0" cy="13" r="1" fill="#E8B820" opacity=".5"/>
+  </g>
+  <text x="356" y="212" text-anchor="end" class="more">查看仓库 →</text>
 </svg>

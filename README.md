@@ -38,11 +38,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chenluQwQ&show_icons=true&hide_border=true&bg_color=FBF8DA&title_color=7FA94E&icon_color=9CC46B&text_color=6E6A3E&locale=cn" />&emsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenluQwQ&layout=compact&hide_border=true&bg_color=FBF8DA&title_color=7FA94E&text_color=6E6A3E&locale=cn" />
-
-<br/><br/>
-
 <img src="https://count.getloli.com/get/@chenluQwQ?theme=moebooru" alt="visitors" />
 
 </div>
