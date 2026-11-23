@@ -39,4 +39,4 @@ body = f'''<rect x="0" y="{PANEL_Y}" width="{W}" height="{H-PANEL_Y}" rx="24" fi
     <text x="0" y="134" class="at">欢迎来看我的主页～</text>
     <text x="0" y="170" class="at">有事可以发邮件给我：<tspan class="hl">chenluqwq@gmail.com</tspan></text>
   </g>'''
-open("assets/about.svg", "w").write(svg(W, H, body, style, defs, "关于我：我叫晨露，也可以叫我柠弥"))
+open("assets/about-card.svg", "w").write(svg(W, H, body, style, defs, "关于我：我叫晨露，也可以叫我柠弥"))
