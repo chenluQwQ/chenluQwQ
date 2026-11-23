@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot">
-  <img src="assets/bilibot-card.svg" width="540" alt="B站 AI Bot 插件" />
+  <img src="assets/bilibot-card.svg" width="512" alt="B站 AI Bot 插件" />
 </a>
 
 <img src="https://img.shields.io/github/stars/chenluQwQ/astrbot_plugin_bilibili_ai_bot?style=flat-square&color=C6DEA2&labelColor=FBF8DA&label=%E2%98%85" />
