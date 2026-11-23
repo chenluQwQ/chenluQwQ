@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Hi，我是晨露" />
+<img src="assets/header.svg" width="100%" alt="Hi, I'm chenluQwQ" />
 
 <div align="center"><img src="assets/typing.svg" width="420" alt="欢迎来看我的主页 / 目前在为 AstrBot 写插件" /></div>
 
