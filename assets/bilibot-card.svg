@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="220" viewBox="0 0 820 220" role="img" aria-label="B站 AI Bot 插件">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFDF2"/>
+      <stop offset="0.55" stop-color="#FFF6CC"/>
+      <stop offset="1" stop-color="#FFE98A"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#FFD84D" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFD84D" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="820" height="220" rx="22"/></clipPath>
+    <style>
+      .label { font: 600 12px 'Helvetica Neue', Arial, sans-serif; letter-spacing: 3px; fill: #C9A227; }
+      .title { font: 700 30px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif; fill: #5C4520; }
+      .desc  { font: 400 15px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif; fill: #8B6B3D; }
+      .tag   { font: 500 12px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif; fill: #8B6B3D; }
+      .more  { font: 500 13px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif; fill: #B8901F; }
+      .sheen { animation: sweep 7s ease-in-out infinite; }
+      .float { animation: float 6s ease-in-out infinite; transform-origin: 700px 110px; }
+      @keyframes sweep { 0%, 55% { transform: translateX(-420px); } 100% { transform: translateX(1000px); } }
+      @keyframes float { 0%, 100% { transform: translateY(0) rotate(-8deg); } 50% { transform: translateY(-6px) rotate(-4deg); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="820" height="220" fill="url(#bg)"/>
+    <circle cx="700" cy="110" r="150" fill="url(#glow)"/>
+    <rect class="sheen" x="0" y="-40" width="260" height="300" fill="url(#sheen)" transform="skewX(-20)"/>
+
+    <!-- 柠檬片 -->
+    <g class="float">
+      <circle cx="700" cy="110" r="54" fill="#FFE066"/>
+      <circle cx="700" cy="110" r="46" fill="#FFF3B0"/>
+      <g stroke="#FFE066" stroke-width="3" stroke-linecap="round">
+        <line x1="700" y1="68" x2="700" y2="152"/>
+        <line x1="658" y1="110" x2="742" y2="110"/>
+        <line x1="670" y1="80" x2="730" y2="140"/>
+        <line x1="730" y1="80" x2="670" y2="140"/>
+      </g>
+      <circle cx="700" cy="110" r="6" fill="#FFE066"/>
+    </g>
+  </g>
+
+  <rect x="0.5" y="0.5" width="819" height="219" rx="21.5" fill="none" stroke="#F2D35B" stroke-opacity="0.6"/>
+
+  <text x="48" y="58" class="label">ASTRBOT PLUGIN</text>
+  <text x="48" y="100" class="title">B站 AI Bot 插件</text>
+  <rect x="48" y="116" width="36" height="3" rx="1.5" fill="#FFD23F"/>
+  <text x="48" y="148" class="desc">让 AI 角色在 B站活起来：刷视频、听声音、回评论，</text>
+  <text x="48" y="172" class="desc">记得看过什么、和谁聊过什么。</text>
+
+  <g transform="translate(48 188)">
+    <rect width="62" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.7"/>
+    <text x="31" y="14" text-anchor="middle" class="tag">Python</text>
+    <rect x="70" width="70" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.7"/>
+    <text x="105" y="14" text-anchor="middle" class="tag">AstrBot</text>
+    <rect x="148" width="62" height="20" rx="10" fill="#FFFFFF" fill-opacity="0.7"/>
+    <text x="179" y="14" text-anchor="middle" class="tag">bilibili</text>
+  </g>
+
+  <text x="772" y="200" text-anchor="end" class="more">查看仓库 →</text>
+</svg>

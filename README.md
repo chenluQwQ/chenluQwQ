@@ -24,19 +24,13 @@
 ## 在做的东西
 
 <div align="center">
-<table>
-<tr>
-<td width="520" valign="top">
 
-### [B站 AI Bot 插件](https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot)
-
-让 AI 角色在 B站评论区活起来：刷视频、听声音、回评论和私信、发动态，记得看过什么、和谁聊过什么
+<a href="https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot">
+  <img src="assets/bilibot-card.svg" width="720" alt="B站 AI Bot 插件" />
+</a>
 
 <img src="https://img.shields.io/github/stars/chenluQwQ/astrbot_plugin_bilibili_ai_bot?style=flat-square&color=FFE066&labelColor=FFF9DB&label=%E2%98%85" />
 
-</td>
-</tr>
-</table>
 </div>
 
 <br/>
