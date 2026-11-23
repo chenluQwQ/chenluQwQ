@@ -19,8 +19,6 @@
 
 欢迎来看我的主页～有事可以发邮件给我：[chenluqwq@gmail.com](mailto:chenluqwq@gmail.com)
 
-<div align="center"><img src="assets/divider-b.svg" width="100%" /></div>
-
 ## 在做的东西
 
 
