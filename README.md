@@ -1,5 +1,7 @@
 <img src="assets/header.svg" width="100%" alt="Hi，我是晨露" />
 
+<div align="center"><img src="assets/typing.svg" width="420" alt="也可以叫我柠弥，欢迎来看我的主页" /></div>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-F6EFB0?style=for-the-badge&logo=python&logoColor=4F5A2C" />&emsp;
