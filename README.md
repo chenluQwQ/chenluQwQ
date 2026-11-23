@@ -7,9 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Python-FFE066?style=for-the-badge&logo=python&logoColor=8B6B3D" />&emsp;
-<img src="https://img.shields.io/badge/AstrBot-FFEFA1?style=for-the-badge&logoColor=8B6B3D" />&emsp;
-<img src="https://img.shields.io/badge/QQ_Bot-FFE066?style=for-the-badge&logo=qq&logoColor=8B6B3D" />&emsp;
-<img src="https://img.shields.io/badge/bilibili-FFEFA1?style=for-the-badge&logo=bilibili&logoColor=8B6B3D" />
+<img src="https://img.shields.io/badge/AstrBot-FFEFA1?style=for-the-badge&logoColor=8B6B3D" />
 
 </div>
 
