@@ -25,7 +25,6 @@
       .desc  { font: 400 15px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6E6A3E; }
       .tag   { font: 500 12px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #6B8A3A; }
       .more  { font: 500 13px 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', 'Noto Sans CJK SC', sans-serif; fill: #8DB255; }
-      .sheen { animation: sweep 8s ease-in-out infinite; }
       .sway { animation: sway 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
       .twinkle { animation: tw 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
       .twinkle2 { animation: tw 4.1s ease-in-out infinite 1s; transform-box: fill-box; transform-origin: center; }
@@ -40,7 +39,6 @@
     <rect width="820" height="240" fill="url(#bg)"/>
     <circle cx="690" cy="120" r="170" fill="url(#glow)"/>
     <circle cx="80" cy="220" r="140" fill="url(#glow2)"/>
-    <rect class="sheen" x="0" y="-40" width="240" height="320" fill="url(#sheen)" transform="skewX(-20)"/>
     
     <path d="M-10 58 C 30 52, 48 20, 92 18 S 160 34, 196 6 S 238 -4, 260 -12" fill="none" stroke="#A9CB78" stroke-width="2.2" stroke-linecap="round"/>
     <path d="M560 252 C 590 222, 618 238, 640 214 S 672 176, 700 186 S 760 214, 790 176 S 812 140, 830 132" fill="none" stroke="#A9CB78" stroke-width="2.2" stroke-linecap="round"/>
