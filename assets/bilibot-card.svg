@@ -28,7 +28,7 @@
   <path d="M48 120 q 9 -5 18 0 t 18 0" fill="none" stroke="#A9CB78" stroke-width="2.4" stroke-linecap="round"/>
   <text x="48" y="150" class="desc">让 AI 角色在 B站活起来：刷视频、听声音、回评论，</text>
   <text x="48" y="174" class="desc">记得看过什么、和谁聊过什么。</text>
-  <g transform="translate(700 44)">
+  <g transform="translate(718 30)">
     <rect width="72" height="26" fill="#FFFFFF" fill-opacity="0.6"/>
     <text x="36" y="18" text-anchor="middle" class="star"><tspan fill="#E8C64A">★</tspan> <tspan id="stars">108</tspan></text>
   </g>
