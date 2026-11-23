@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://github.com/chenluQwQ/astrbot_plugin_bilibili_ai_bot">
-  <img src="assets/bilibot-card.svg" width="720" alt="B站 AI Bot 插件" />
+  <img src="assets/plugin-card.svg" width="720" alt="B站 AI Bot 插件" />
 </a>
 
 </div>
