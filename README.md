@@ -11,7 +11,7 @@
 
 </div>
 
-<div align="center"><img src="assets/about-card.svg" width="720" alt="关于我：我叫晨露，也可以叫我柠弥。目前在为 AstrBot 写插件。邮箱 chenluqwq@gmail.com" /></div>
+<div align="center"><img src="assets/about-me.svg" width="720" alt="关于我：我叫晨露，也可以叫我柠弥。目前在为 AstrBot 写插件。邮箱 chenluqwq@gmail.com" /></div>
 
 ## 在做的东西
 
